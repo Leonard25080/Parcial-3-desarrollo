@@ -1,0 +1,35 @@
+[
+    {
+        "id": 1,
+        "fecha": "2026-11-12 17:07:25",
+        "pieza_id": 21,
+        "codigo": "IND-021",
+        "pieza": "motor v8",
+        "tipo": "Entrada",
+        "cantidad": 8,
+        "responsable": "Administrador principal",
+        "detalle": "Registro inicial de pieza"
+    },
+    {
+        "id": 2,
+        "fecha": "2026-11-12 17:08:22",
+        "pieza_id": 15,
+        "codigo": "IND-015",
+        "pieza": "Cilindro neumático 32 mm",
+        "tipo": "Salida",
+        "cantidad": 4,
+        "responsable": "Gerente de almacén",
+        "detalle": "Solicitud #3 de Técnico de mantenimiento"
+    },
+    {
+        "id": 3,
+        "fecha": "2026-11-12 17:08:33",
+        "pieza_id": 5,
+        "codigo": "IND-005",
+        "pieza": "Polea de aluminio 120 mm",
+        "tipo": "Salida",
+        "cantidad": 1,
+        "responsable": "Gerente de almacén",
+        "detalle": "Solicitud #1 de Técnico de mantenimiento"
+    }
+]

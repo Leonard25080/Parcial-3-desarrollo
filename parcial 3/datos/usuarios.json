@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "nombre": "Administrador principal",
+        "usuario": "admin",
+        "clave": "scrypt:32768:8:1$bDUWP2WbYK83kEkC$fa6399c0669192273235d56b78dc9e1a229badbf42a6df42fbb440fbf9ae696f79aeaf5a626038fac399203a50576b72f72f68322e122aec1a6c41aadf6cb4cb",
+        "rol": "administrador"
+    },
+    {
+        "id": 2,
+        "nombre": "Gerente de almacén",
+        "usuario": "gerente",
+        "clave": "scrypt:32768:8:1$Skl4uUxSUDTFuwi6$3486cffd01335e58c50948beb97365d9f0a06bfd81b5f7d3e44889a30d5ded0ba09edc47cf828290a3b1871ed1a252d12a30e441521adb8b503f6be870e501df",
+        "rol": "gerente"
+    },
+    {
+        "id": 3,
+        "nombre": "Técnico de mantenimiento",
+        "usuario": "tecnico",
+        "clave": "scrypt:32768:8:1$YP2dCbYPXhvj7UNP$615deba23a8919a582968f28c8f36e20323637eca8e30c01b8053a8a47da10dd95450b272f25b184305d2306208adce3a007f3e63c77391e1e49927a678a30bb",
+        "rol": "tecnico"
+    }
+]

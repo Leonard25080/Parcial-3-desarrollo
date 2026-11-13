@@ -1,0 +1,191 @@
+[
+    {
+        "id": 1,
+        "codigo": "IND-001",
+        "nombre": "Rodamiento 6205",
+        "categoria": "Rodamientos",
+        "cantidad": 24,
+        "ubicacion": "A1-01",
+        "minimo": 5
+    },
+    {
+        "id": 2,
+        "codigo": "IND-002",
+        "nombre": "Rodamiento 6308",
+        "categoria": "Rodamientos",
+        "cantidad": 12,
+        "ubicacion": "A1-02",
+        "minimo": 5
+    },
+    {
+        "id": 3,
+        "codigo": "IND-003",
+        "nombre": "Banda trapezoidal A-42",
+        "categoria": "Transmisión",
+        "cantidad": 18,
+        "ubicacion": "A2-01",
+        "minimo": 4
+    },
+    {
+        "id": 4,
+        "codigo": "IND-004",
+        "nombre": "Cadena industrial 08B",
+        "categoria": "Transmisión",
+        "cantidad": 7,
+        "ubicacion": "A2-02",
+        "minimo": 4
+    },
+    {
+        "id": 5,
+        "codigo": "IND-005",
+        "nombre": "Polea de aluminio 120 mm",
+        "categoria": "Transmisión",
+        "cantidad": 8,
+        "ubicacion": "A2-03",
+        "minimo": 3
+    },
+    {
+        "id": 6,
+        "codigo": "IND-006",
+        "nombre": "Engrane recto 24 dientes",
+        "categoria": "Transmisión",
+        "cantidad": 5,
+        "ubicacion": "A2-04",
+        "minimo": 3
+    },
+    {
+        "id": 7,
+        "codigo": "IND-007",
+        "nombre": "Motor eléctrico 1 HP",
+        "categoria": "Motores",
+        "cantidad": 3,
+        "ubicacion": "B1-01",
+        "minimo": 2
+    },
+    {
+        "id": 8,
+        "codigo": "IND-008",
+        "nombre": "Motor eléctrico 3 HP",
+        "categoria": "Motores",
+        "cantidad": 2,
+        "ubicacion": "B1-02",
+        "minimo": 2
+    },
+    {
+        "id": 9,
+        "codigo": "IND-009",
+        "nombre": "Contactor trifásico 25 A",
+        "categoria": "Eléctrico",
+        "cantidad": 16,
+        "ubicacion": "B2-01",
+        "minimo": 5
+    },
+    {
+        "id": 10,
+        "codigo": "IND-010",
+        "nombre": "Relevador térmico 12 A",
+        "categoria": "Eléctrico",
+        "cantidad": 4,
+        "ubicacion": "B2-02",
+        "minimo": 5
+    },
+    {
+        "id": 11,
+        "codigo": "IND-011",
+        "nombre": "Interruptor termomagnético",
+        "categoria": "Eléctrico",
+        "cantidad": 10,
+        "ubicacion": "B2-03",
+        "minimo": 3
+    },
+    {
+        "id": 12,
+        "codigo": "IND-012",
+        "nombre": "Sensor inductivo M12",
+        "categoria": "Sensores",
+        "cantidad": 6,
+        "ubicacion": "C1-01",
+        "minimo": 4
+    },
+    {
+        "id": 13,
+        "codigo": "IND-013",
+        "nombre": "Sensor fotoeléctrico",
+        "categoria": "Sensores",
+        "cantidad": 8,
+        "ubicacion": "C1-02",
+        "minimo": 3
+    },
+    {
+        "id": 14,
+        "codigo": "IND-014",
+        "nombre": "Válvula neumática 5/2",
+        "categoria": "Neumática",
+        "cantidad": 11,
+        "ubicacion": "C2-01",
+        "minimo": 4
+    },
+    {
+        "id": 15,
+        "codigo": "IND-015",
+        "nombre": "Cilindro neumático 32 mm",
+        "categoria": "Neumática",
+        "cantidad": 1,
+        "ubicacion": "C2-02",
+        "minimo": 2
+    },
+    {
+        "id": 16,
+        "codigo": "IND-016",
+        "nombre": "Manguera neumática 8 mm",
+        "categoria": "Neumática",
+        "cantidad": 30,
+        "ubicacion": "C2-03",
+        "minimo": 8
+    },
+    {
+        "id": 17,
+        "codigo": "IND-017",
+        "nombre": "Filtro hidráulico 10 micras",
+        "categoria": "Hidráulica",
+        "cantidad": 3,
+        "ubicacion": "D1-01",
+        "minimo": 4
+    },
+    {
+        "id": 18,
+        "codigo": "IND-018",
+        "nombre": "Bomba hidráulica 5 L/min",
+        "categoria": "Hidráulica",
+        "cantidad": 1,
+        "ubicacion": "D1-02",
+        "minimo": 2
+    },
+    {
+        "id": 19,
+        "codigo": "IND-019",
+        "nombre": "Sello mecánico 25 mm",
+        "categoria": "Sellos",
+        "cantidad": 0,
+        "ubicacion": "D2-01",
+        "minimo": 3
+    },
+    {
+        "id": 20,
+        "codigo": "IND-020",
+        "nombre": "Junta de caucho industrial",
+        "categoria": "Sellos",
+        "cantidad": 45,
+        "ubicacion": "D2-02",
+        "minimo": 10
+    },
+    {
+        "id": 21,
+        "codigo": "IND-021",
+        "nombre": "motor v8",
+        "categoria": "Motores",
+        "cantidad": 8,
+        "ubicacion": "B1-03",
+        "minimo": 2
+    }
+]

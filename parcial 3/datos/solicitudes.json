@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "fecha": "2026-11-12 17:04:11",
+        "tecnico_id": 3,
+        "tecnico": "Técnico de mantenimiento",
+        "pieza_id": 5,
+        "codigo": "IND-005",
+        "pieza": "Polea de aluminio 120 mm",
+        "cantidad": 1,
+        "motivo": "cambio de la polea de una de las maquinas",
+        "estado": "Aprobada",
+        "gerente": "Gerente de almacén",
+        "fecha_respuesta": "2026-11-12 17:08:33"
+    },
+    {
+        "id": 2,
+        "fecha": "2026-11-12 17:04:48",
+        "tecnico_id": 3,
+        "tecnico": "Técnico de mantenimiento",
+        "pieza_id": 8,
+        "codigo": "IND-008",
+        "pieza": "Motor eléctrico 3 HP",
+        "cantidad": 2,
+        "motivo": "se requieren para poder jugar marvel",
+        "estado": "Rechazada",
+        "gerente": "Gerente de almacén",
+        "fecha_respuesta": "2026-11-12 17:08:30"
+    },
+    {
+        "id": 3,
+        "fecha": "2026-11-12 17:05:08",
+        "tecnico_id": 3,
+        "tecnico": "Técnico de mantenimiento",
+        "pieza_id": 15,
+        "codigo": "IND-015",
+        "pieza": "Cilindro neumático 32 mm",
+        "cantidad": 4,
+        "motivo": "no se me gustan",
+        "estado": "Aprobada",
+        "gerente": "Gerente de almacén",
+        "fecha_respuesta": "2026-11-12 17:08:22"
+    },
+    {
+        "id": 4,
+        "fecha": "2026-11-12 17:41:26",
+        "tecnico_id": 3,
+        "tecnico": "Técnico de mantenimiento",
+        "pieza_id": 3,
+        "codigo": "IND-003",
+        "pieza": "Banda trapezoidal A-42",
+        "cantidad": 4,
+        "motivo": "reparacion de maquinaria",
+        "estado": "Pendiente",
+        "gerente": "",
+        "fecha_respuesta": ""
+    }
+]
